@@ -1,0 +1,18 @@
+¡Hola Andres Lopéz! Aquí tienes los detalles de tu reserva:
+
+Check-in:	07-07-2025
+Check-out:	10-07-2025
+
+Reservaste	3 noches, 2 habitaciones, 6 personas
+
+Detalles de reserva
+[1]	Habitacion doble
+[1]	Suite
+
+E-mail de contacto	[andlops@dmail.com]
+
+Detalles del precio:
+[1]	Habitacion doble		 2700.00$
+[1]	Suite		 6000.00$
+----------------------------------------------
+Total:					8700.00$
